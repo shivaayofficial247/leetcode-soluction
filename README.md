@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivaayofficial247/leetcode-soluction/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shivaayofficial247/leetcode-soluction/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shivaayofficial247/leetcode-soluction/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
